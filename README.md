@@ -34,7 +34,7 @@ Just move all your stuff to the directory you created before starting the contai
 
 ## Building from source
 
-Assuming [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [docker](https://www.docker.com/) are installed..
+Assuming [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [docker](https://www.docker.com/) are installed.
 
 1. Clone this repository
 
