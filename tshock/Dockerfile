@@ -1,7 +1,7 @@
 FROM alpine:3.11.6 AS base
 
 #TShock URL
-ENV TSHOCKURL="https://github.com/Pryaxis/TShock/releases/download/v4.5.2/TShock.4.5.2.Terraria.1.4.2.2a.zip"
+ENV TSHOCKURL="https://github.com/Pryaxis/TShock/releases/download/v4.5.4/TShock4.5.4_Terraria1.4.2.3.zip"
 
 RUN apk add --update-cache \
     unzip
